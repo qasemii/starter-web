@@ -1,3 +1,6 @@
 hello friends this is supposed to act 
 as hipster file instead of the one in the 
 tutorial
+first change done
+second change done
+third change done
